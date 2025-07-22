@@ -14,11 +14,9 @@ Welcome to my GitHub profile!
 
 ## Projects
 - [Portfolio Website](https://ranishraj007.github.io/portfolio)
-- [React Blog](https://github.com/ranishraj007/react-blog)
 
 ## Contact Me
-- 📧 ranishraj007@example.com
-- [LinkedIn](https://linkedin.com/in/ranishraj007)
-- [Twitter](https://twitter.com/ranishraj007)
+- 📧 ranish.raj.shrestha@gmail.com
+- [LinkedIn]([https://linkedin.com/in/ranishraj007](https://www.linkedin.com/in/ranish-raj-shrestha-89aa32207/))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ranishraj007&show_icons=true&theme=radical)
