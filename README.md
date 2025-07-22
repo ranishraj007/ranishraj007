@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 - Git, GitHub
 
 ## Projects
-- [Portfolio Website](https://ranishraj007.github.io/portfolio)
+- [Portfolio Website](https://ranishrajshrestha.com.np)
 
 ## Contact Me
 - 📧 ranish.raj.shrestha@gmail.com
