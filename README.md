@@ -30,15 +30,6 @@
 
 </div>
 
-```ts
-const ranish = {
-  role: "Frontend Developer",
-  focus: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
-  currentlyLearning: ["Advanced Next.js", "Django basics", "UI architecture"],
-  mindset: "Build clean interfaces, learn fast, and keep improving.",
-};
-```
-
 I am a frontend developer passionate about crafting responsive, accessible, and visually polished web experiences. I enjoy turning ideas into smooth interfaces, writing maintainable code, and exploring modern tools that make the web feel faster and better.
 
 ---
@@ -76,17 +67,6 @@ I am a frontend developer passionate about crafting responsive, accessible, and 
 <div align="center">
 
 ## 📊 GitHub Analytics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranishraj007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00C8&text_color=C9D1D9" alt="Ranish's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranishraj007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Ranish's top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=ranishraj007&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF" alt="GitHub contribution streak" />
-
-<br />
-<br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranishraj007&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=FF00C8&area=true&hide_border=true" alt="GitHub activity graph" />
 
